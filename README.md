@@ -1,6 +1,6 @@
 <h2>Hello, I'm Tuan! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
-<p><em>Business Information Technolgy at <a href="https://caodang.fpt.edu.vn/">Developer</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+<p><em>Business Information Technolgy at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
 [![Linkedin: ikismail7](https://img.shields.io/badge/-Mohammed%20Ismail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)](https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)
@@ -31,7 +31,7 @@ const anhtuan0501 = {
     backEnd: {
       js: ["node", "express"],
     },
-    databases: ["mongo"],
+    databases: ["MySql"],
     misc: ["Firebase", "IOT", "RaspberryPi"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
