@@ -3,7 +3,7 @@
 <p><em>Business Information Technolgy at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
 </em></p>
 
-[![Linkedin: admin](https://img.shields.io/badge/-Mohammed%20Ismail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)](https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)
+[![Linkedin: admin](https://img.shields.io/badge/-Anh%20Tuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)](https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)
 ![GitHub followers](https://img.shields.io/github/followers/anhtuan0501?label=Follow&style=social)
 ![](https://visitor-badge.laobi.icu/badge?page_id=ikismail)
 
