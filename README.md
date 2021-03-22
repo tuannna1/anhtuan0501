@@ -1,13 +1,15 @@
-<h2>Hello, I'm Tuan! <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/smario.gif" width="50"></h2>
+<h2>Hello, I'm Tuan! <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
 <img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
-<p><em>Software Engineering at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://raw.githubusercontent.com/ikismail/ikismail/master/working_cat.gif" width="30"> 
+<p><em>Software Engineering at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: admin](https://img.shields.io/badge/-Anh%20Tuan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)](https://www.linkedin.com/in/nguyen-ngo-anh-tuan-3a456a160/)
-![GitHub followers](https://img.shields.io/github/followers/anhtuan0501?label=Follow&style=social)
-![](https://visitor-badge.laobi.icu/badge?page_id=ikismail)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
+[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
 
-### <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/catty.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const anhtuan0501 = {
