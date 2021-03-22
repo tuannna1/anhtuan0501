@@ -2,6 +2,7 @@
 <img align='right' src="https://raw.githubusercontent.com/ikismail/ikismail/master/user.gif" width="230">
 <p><em>Software Engineering at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
+My name is Tuan and I'm a backend developer. I'm from Quang Ngai city, living in Da Nang city and currently working at freelancer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
@@ -53,9 +54,9 @@ const anhtuan0501 = {
 
 ### 🐲 Your weekly language rankings
 
-               javascript : ▮▮▮▮▮▮ 26.7%
-                     html : ▮▮▮▮▮ 20.0%
-                plaintext : ▮▮▮▮▮ 20.0%
+         SQL Server/MySQL : ▮▮▮▮▮▮ 26.7%
+                     Html : ▮▮▮▮▮ 20.0%
+               Spring boot: ▮▮▮▮▮ 20.0%
                typescript : ▮▮▮▮▮ 20.0%
                       css : ▮▮ 6.7%
                      json : ▮▮ 6.7%
