@@ -7,11 +7,11 @@
 </em></p>
 My name is Tuan and I'm a backend developer. I'm from Quang Ngai city, living in Da Nang city and currently working at freelancer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
-[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
-[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/tuandev0051/)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/)
+[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/)
 
 ### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> A little more about me...
 
