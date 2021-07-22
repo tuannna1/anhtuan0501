@@ -5,7 +5,7 @@
 
 <p><em>Software Engineering at <a href="https://caodang.fpt.edu.vn/">FPT Polytechnic</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
-My name is Tuan and I'm a backend developer. I'm from Quang Ngai city, living in Da Nang city and currently working at freelancer. You can find me on :
+My name is Tuan and I'm a backend developer. I'm from Quang Ngai city, living in Da Nang city and currently working at freelancer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/tuandev0051/)
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/)
 [![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/)
