@@ -18,27 +18,22 @@ My name is Tuan and I'm a backend developer. I'm from Quang Ngai city, living in
 ```javascript
 const anhtuan0501 = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Python (Basic)"],
+  code: ["Java"],
   askMeAbout: ["web dev", "tech", "app dev"],
   technologies: {
-    mobileApp: ["React-Native", "Ionic"],
+    destopApp: ["Java Swing"],
     frontEnd: {
       js: [
         "Angular",
         "NGRX",
-        "React",
-        "Redux",
-        "Redux-Thunk",
-        "Nextjs",
-        "Vue (Basic)",
       ],
       css: ["angular-material", "bootstrap"],
     },
     backEnd: {
-      js: ["node", "express"],
+      framwork: ["Spring Boot"],
     },
-    databases: ["MySql"],
-    misc: ["Firebase", "IOT", "RaspberryPi"],
+    databases: ["MySql","SQL Server"],
+    misc: ["Firebase", "Heroku", "Netlify"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
 };
@@ -60,7 +55,6 @@ const anhtuan0501 = {
          SQL Server/MySQL : ▮▮▮▮▮▮ 26.7%
                      Html : ▮▮▮▮▮ 20.0%
                Spring boot: ▮▮▮▮▮ 20.0%
-               typescript : ▮▮▮▮▮ 20.0%
                       css : ▮▮ 6.7%
                      json : ▮▮ 6.7%
 
