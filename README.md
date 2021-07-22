@@ -42,7 +42,6 @@ const anhtuan0501 = {
 <!-- GitHub Readme Stats -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ikismail&count_private=true&show_icons=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikismail&layout=compact&hide=c%2B%2B)](https://github.com/ikismail/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/ikismail/ikismail/master/connections.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
